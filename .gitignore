@@ -1,0 +1,6 @@
+# Credenciales: nunca al repositorio
+secrets.h
+*.pem
+*.key
+*.crt
+.env

@@ -1,0 +1,5 @@
+{
+  "state": {
+    "desired": { "led": "on" }
+  }
+}
