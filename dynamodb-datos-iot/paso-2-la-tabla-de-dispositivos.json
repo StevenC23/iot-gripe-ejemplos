@@ -1,0 +1,3 @@
+{ "casaId": "casa-demo", "dispositivoId": "luz-sala",      "tipo": "luz",    "nombre": "Sala" }
+{ "casaId": "casa-demo", "dispositivoId": "luz-cocina",    "tipo": "luz",    "nombre": "Cocina" }
+{ "casaId": "casa-demo", "dispositivoId": "sensor-patio",  "tipo": "sensor", "nombre": "Patio" }

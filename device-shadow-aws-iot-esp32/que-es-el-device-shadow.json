@@ -1,0 +1,8 @@
+{
+  "state": {
+    "desired":  { "sala": "on",  "cocina": "off" },
+    "reported": { "sala": "off", "cocina": "off" },
+    "delta":    { "sala": "on" }
+  },
+  "version": 42
+}

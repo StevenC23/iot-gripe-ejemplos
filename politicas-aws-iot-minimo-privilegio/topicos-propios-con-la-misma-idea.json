@@ -1,0 +1,5 @@
+{
+  "Effect": "Allow",
+  "Action": "iot:Publish",
+  "Resource": "arn:aws:iot:REGION:CUENTA:topic/casa-demo/${iot:Connection.Thing.ThingName}/telemetria"
+}

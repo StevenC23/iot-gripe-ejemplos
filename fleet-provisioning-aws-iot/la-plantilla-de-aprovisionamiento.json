@@ -1,0 +1,25 @@
+{
+  "Parameters": {
+    "NumeroSerie": { "Type": "String" },
+    "AWS::IoT::Certificate::Id": { "Type": "String" }
+  },
+  "Resources": {
+    "certificate": {
+      "Type": "AWS::IoT::Certificate",
+      "Properties": {
+        "CertificateId": { "Ref": "AWS::IoT::Certificate::Id" },
+        "Status": "Active"
+      }
+    },
+    "thing": {
+      "Type": "AWS::IoT::Thing",
+      "Properties": {
+        "ThingName": { "Fn::Join": ["", ["casa-demo-", { "Ref": "NumeroSerie" }]] }
+      }
+    },
+    "policy": {
+      "Type": "AWS::IoT::Policy",
+      "Properties": { "PolicyName": "casa-demo-dispositivo" }
+    }
+  }
+}
