@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material/web": "<la versión de su lockfile>",
+    "esp-web-tools": "^10.4.0"
+  }
+}

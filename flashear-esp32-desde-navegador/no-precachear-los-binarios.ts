@@ -1,0 +1,5 @@
+VitePWA({
+  workbox: {
+    globIgnores: ["**/firmware/**"],
+  },
+});

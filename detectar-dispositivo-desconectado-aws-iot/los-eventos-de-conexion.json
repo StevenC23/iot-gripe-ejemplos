@@ -1,0 +1,10 @@
+{
+  "clientId": "mi-esp32",
+  "timestamp": 1760180400000,
+  "eventType": "disconnected",
+  "clientInitiatedDisconnect": false,
+  "sessionIdentifier": "00000000-0000-0000-0000-000000000000",
+  "principalIdentifier": "…",
+  "disconnectReason": "MQTT_KEEP_ALIVE_TIMEOUT",
+  "versionNumber": 12
+}
