@@ -26,6 +26,8 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-10 | [Bombillo inteligente DIY con ESP32-C3 e interruptor de pared que funciona sin internet](bombillo-inteligente-esp32-c3-interruptor/) | 3 |
 | 2026-10-11 | [Flashear un ESP32 desde el navegador con ESP Web Tools, sin instalar nada](flashear-esp32-desde-navegador/) | 6 |
 | 2026-10-11 | [Saber si un ESP32 está conectado: eventos de ciclo de vida en AWS IoT](detectar-dispositivo-desconectado-aws-iot/) | 5 |
+| 2026-10-13 | [Qué es el ESP32 y por qué domina los proyectos IoT: guía para elegir y empezar](que-es-esp32-guia/) | 1 |
+| 2026-10-13 | [13 errores reales al construir domótica con ESP32 y AWS IoT (y cómo los resolví)](errores-reales-domotica-esp32-aws/) | 1 |
 
 ## Cómo usarlo
 
