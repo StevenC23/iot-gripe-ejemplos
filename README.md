@@ -28,6 +28,8 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-11 | [Saber si un ESP32 está conectado: eventos de ciclo de vida en AWS IoT](detectar-dispositivo-desconectado-aws-iot/) | 5 |
 | 2026-10-13 | [Qué es el ESP32 y por qué domina los proyectos IoT: guía para elegir y empezar](que-es-esp32-guia/) | 1 |
 | 2026-10-13 | [13 errores reales al construir domótica con ESP32 y AWS IoT (y cómo los resolví)](errores-reales-domotica-esp32-aws/) | 1 |
+| 2026-10-15 | [AWS IoT Core: qué es, cómo funciona y cuándo usarlo en tu proyecto](aws-iot-core-que-es/) | 2 |
+| 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 
 ## Cómo usarlo
 

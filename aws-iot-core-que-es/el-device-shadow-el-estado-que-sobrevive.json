@@ -1,0 +1,6 @@
+{
+  "state": {
+    "desired":  { "led": "on" },
+    "reported": { "led": "off" }
+  }
+}
