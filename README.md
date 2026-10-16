@@ -30,6 +30,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-13 | [13 errores reales al construir domótica con ESP32 y AWS IoT (y cómo los resolví)](errores-reales-domotica-esp32-aws/) | 1 |
 | 2026-10-15 | [AWS IoT Core: qué es, cómo funciona y cuándo usarlo en tu proyecto](aws-iot-core-que-es/) | 2 |
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
+| 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 
 ## Cómo usarlo
 
