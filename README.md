@@ -31,6 +31,8 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-15 | [AWS IoT Core: qué es, cómo funciona y cuándo usarlo en tu proyecto](aws-iot-core-que-es/) | 2 |
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
+| 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
+| 2026-10-17 | [ESP32 publica en MQTT pero no llega a AWS IoT: causas y solución](esp32-mqtt-publish-no-llega-aws-iot/) | 4 |
 
 ## Cómo usarlo
 
