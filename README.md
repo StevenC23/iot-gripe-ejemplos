@@ -33,6 +33,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 | 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
 | 2026-10-17 | [ESP32 publica en MQTT pero no llega a AWS IoT: causas y solución](esp32-mqtt-publish-no-llega-aws-iot/) | 4 |
+| 2026-10-18 | [ESP32-C3 se desconecta de AWS IoT con CLIENT_ERROR: falta de stack en loop()](esp32-c3-stack-loop-client-error/) | 2 |
 
 ## Cómo usarlo
 
