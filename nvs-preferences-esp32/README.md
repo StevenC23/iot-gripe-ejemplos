@@ -12,4 +12,6 @@ Cómo guardar Wi-Fi, certificados y estructuras en la memoria NVS del ESP32 con 
 | [`no-desgastes-la-flash.cpp`](no-desgastes-la-flash.cpp) | No desgastes la flash |
 | [`como-borrar-la-configuracion.cpp`](como-borrar-la-configuracion.cpp) | Cómo borrar la configuración |
 
+**Pruébalo sin placa:** [`wokwi/contador-arranques`](wokwi/contador-arranques) tiene `sketch.ino` y `diagram.json` para el simulador [Wokwi](https://wokwi.com). Crea un proyecto ESP32 nuevo y pega ambos archivos.
+
 Algunos archivos son fragmentos que se entienden junto con el artículo: ahí está la explicación paso a paso.

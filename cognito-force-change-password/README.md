@@ -10,6 +10,6 @@ Login con Cognito en React sin Amplify: registro solo por invitación, contrase�
 | [`crear-usuarios-por-invitacion.js`](crear-usuarios-por-invitacion.js) | Crear usuarios por invitación |
 | [`el-primer-inicio-de-sesion-new-password-required.ts`](el-primer-inicio-de-sesion-new-password-required.ts) | El primer inicio de sesión: NEW_PASSWORD_REQUIRED |
 | [`recuperar-la-contrasena.ts`](recuperar-la-contrasena.ts) | Recuperar la contraseña |
-| [`usar-el-token-en-el-backend.js`](usar-el-token-en-el-backend.js) | Usar el token en el backend |
+| [`usar-el-id-token-en-el-backend.js`](usar-el-id-token-en-el-backend.js) | Usar el ID token en el backend |
 
 Algunos archivos son fragmentos que se entienden junto con el artículo: ahí está la explicación paso a paso.

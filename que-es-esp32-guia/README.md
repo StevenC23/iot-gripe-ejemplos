@@ -8,4 +8,6 @@ Guía del ESP32 en español: qué es, en qué se diferencian el ESP32, S3, C3, C
 | --- | --- |
 | [`primeros-pasos-con-arduino-ide/primeros-pasos-con-arduino-ide.ino`](primeros-pasos-con-arduino-ide/primeros-pasos-con-arduino-ide.ino) | Primeros pasos con Arduino IDE |
 
+**Pruébalo sin placa:** [`wokwi/parpadeo`](wokwi/parpadeo) tiene `sketch.ino` y `diagram.json` para el simulador [Wokwi](https://wokwi.com). Crea un proyecto ESP32 nuevo y pega ambos archivos.
+
 Algunos archivos son fragmentos que se entienden junto con el artículo: ahí está la explicación paso a paso.

@@ -10,4 +10,6 @@ Cómo agregar un interruptor físico a un nodo ESP32-C3 de domótica: lógica de
 | [`avisar-al-hub.cpp`](avisar-al-hub.cpp) | Avisar al hub |
 | [`que-la-nube-no-deshaga-el-cambio.cpp`](que-la-nube-no-deshaga-el-cambio.cpp) | Que la nube no deshaga el cambio |
 
+**Pruébalo sin placa:** [`wokwi/interruptor-antirrebote`](wokwi/interruptor-antirrebote) tiene `sketch.ino` y `diagram.json` para el simulador [Wokwi](https://wokwi.com). Crea un proyecto ESP32 nuevo y pega ambos archivos.
+
 Algunos archivos son fragmentos que se entienden junto con el artículo: ahí está la explicación paso a paso.

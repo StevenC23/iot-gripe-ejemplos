@@ -7,7 +7,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | Fecha | Artículo | Archivos |
 | --- | --- | --- |
 | 2026-09-30 | [Arquitectura de una casa inteligente con ESP32 y AWS: las piezas y cómo encajan](arquitectura-casa-inteligente-esp32-aws/) | 1 |
-| 2026-10-01 | [ESP32-S3 vs ESP32-C3: cuál elegir según el papel del dispositivo](esp32-s3-vs-esp32-c3/) | 3 |
+| 2026-10-01 | [ESP32-S3 vs ESP32-C3: diferencias y cuál elegir](esp32-s3-vs-esp32-c3/) | 3 |
 | 2026-10-02 | [Conectar un ESP32 a AWS IoT Core paso a paso](conectar-esp32-aws-iot-core/) | 9 |
 | 2026-10-03 | [ESP-NOW paso a paso: enviar órdenes entre ESP32 con confirmación](esp-now-esp32-paso-a-paso/) | 3 |
 | 2026-10-04 | [Device Shadow en AWS IoT: estado deseado y reportado con un ESP32](device-shadow-aws-iot-esp32/) | 4 |
@@ -20,7 +20,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-07 | [AWS CDK con TypeScript para un proyecto IoT: infraestructura como código](aws-cdk-typescript-proyecto-iot/) | 4 |
 | 2026-10-08 | [Políticas de AWS IoT: mínimo privilegio para cada dispositivo](politicas-aws-iot-minimo-privilegio/) | 3 |
 | 2026-10-08 | [Reglas de AWS IoT: guardar datos y enviar alertas sin servidores](reglas-aws-iot-alertas/) | 8 |
-| 2026-10-09 | [Convertir un panel web en PWA con Vite (y que se actualice)](pwa-vite-service-worker-actualizacion/) | 4 |
+| 2026-10-09 | [PWA con Vite y vite-plugin-pwa: instalable y que se actualice](pwa-vite-service-worker-actualizacion/) | 4 |
 | 2026-10-09 | [Portal cautivo en ESP32: configurar el Wi-Fi sin reprogramar](portal-cautivo-esp32-wifi/) | 5 |
 | 2026-10-10 | [Aprovisionar dispositivos en AWS IoT con Fleet Provisioning](fleet-provisioning-aws-iot/) | 5 |
 | 2026-10-10 | [Bombillo inteligente DIY con ESP32-C3 e interruptor de pared que funciona sin internet](bombillo-inteligente-esp32-c3-interruptor/) | 3 |
@@ -32,9 +32,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 | 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
-| 2026-10-17 | [ESP32 publica en MQTT pero no llega a AWS IoT: causas y solución](esp32-mqtt-publish-no-llega-aws-iot/) | 4 |
-| 2026-10-18 | [ESP32-C3 se desconecta de AWS IoT con CLIENT_ERROR: falta de stack en loop()](esp32-c3-stack-loop-client-error/) | 2 |
-| 2026-10-19 | [ESP-NOW con más de 20 dispositivos: por qué falla esp_now_add_peer y qué hacer](esp-now-limite-20-dispositivos/) | 4 |
+| 2026-10-20 | [Pines del ESP32-S3: cuáles usar, cuáles evitar y por qué](pines-esp32-s3-cuales-usar/) | 3 |
 
 ## Cómo usarlo
 
