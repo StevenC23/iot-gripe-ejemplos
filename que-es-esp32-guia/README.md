@@ -1,8 +1,8 @@
-# Qué es el ESP32 y por qué domina los proyectos IoT: guía para elegir y empezar
+# Qué es el ESP32: modelos, usos y cómo elegir el tuyo
 
-Código del artículo **[Qué es el ESP32 y por qué domina los proyectos IoT: guía para elegir y empezar](https://iot.gripe/blog/que-es-esp32-guia)**, publicado en [iot.gripe](https://iot.gripe).
+Código del artículo **[Qué es el ESP32: modelos, usos y cómo elegir el tuyo](https://iot.gripe/blog/que-es-esp32-guia)**, publicado en [iot.gripe](https://iot.gripe).
 
-Guía del ESP32 en español: qué es, en qué se diferencian el ESP32, S3, C3, C6 y los demás modelos, cómo programarlo y cómo elegir la placa para tu proyecto IoT.
+El ESP32 es un microcontrolador barato con Wi-Fi y Bluetooth. Diferencias entre ESP32, S3, C3 y C6, cómo se programa y qué placa elegir para tu proyecto IoT.
 
 | Archivo | Sección del artículo |
 | --- | --- |

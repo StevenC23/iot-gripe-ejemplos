@@ -26,13 +26,14 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-10 | [Bombillo inteligente DIY con ESP32-C3 e interruptor de pared que funciona sin internet](bombillo-inteligente-esp32-c3-interruptor/) | 3 |
 | 2026-10-11 | [Flashear un ESP32 desde el navegador con ESP Web Tools, sin instalar nada](flashear-esp32-desde-navegador/) | 6 |
 | 2026-10-11 | [Saber si un ESP32 está conectado: eventos de ciclo de vida en AWS IoT](detectar-dispositivo-desconectado-aws-iot/) | 5 |
-| 2026-10-13 | [Qué es el ESP32 y por qué domina los proyectos IoT: guía para elegir y empezar](que-es-esp32-guia/) | 1 |
+| 2026-10-13 | [Qué es el ESP32: modelos, usos y cómo elegir el tuyo](que-es-esp32-guia/) | 1 |
 | 2026-10-13 | [13 errores reales al construir domótica con ESP32 y AWS IoT (y cómo los resolví)](errores-reales-domotica-esp32-aws/) | 1 |
 | 2026-10-15 | [AWS IoT Core: qué es, cómo funciona y cuándo usarlo en tu proyecto](aws-iot-core-que-es/) | 2 |
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 | 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
 | 2026-10-20 | [Pines del ESP32-S3: cuáles usar, cuáles evitar y por qué](pines-esp32-s3-cuales-usar/) | 3 |
+| 2026-10-21 | [Pinout del ESP32 DevKit explicado: qué pin usar para cada cosa](pinout-esp32-devkit-explicado/) | 2 |
 
 ## Cómo usarlo
 
