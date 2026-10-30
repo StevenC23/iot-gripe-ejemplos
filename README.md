@@ -7,7 +7,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | Fecha | Artículo | Archivos |
 | --- | --- | --- |
 | 2026-09-30 | [Arquitectura de una casa inteligente con ESP32 y AWS: las piezas y cómo encajan](arquitectura-casa-inteligente-esp32-aws/) | 1 |
-| 2026-10-01 | [ESP32-S3 vs ESP32-C3: diferencias y cuál elegir](esp32-s3-vs-esp32-c3/) | 3 |
+| 2026-10-01 | [ESP32-S3 vs ESP32-C3: diferencias y cuál elegir (tabla)](esp32-s3-vs-esp32-c3/) | 3 |
 | 2026-10-02 | [Conectar un ESP32 a AWS IoT Core paso a paso](conectar-esp32-aws-iot-core/) | 9 |
 | 2026-10-03 | [ESP-NOW paso a paso: enviar órdenes entre ESP32 con confirmación](esp-now-esp32-paso-a-paso/) | 3 |
 | 2026-10-04 | [Device Shadow en AWS IoT: estado deseado y reportado con un ESP32](device-shadow-aws-iot-esp32/) | 4 |
@@ -32,8 +32,8 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 | 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
-| 2026-10-20 | [Pines del ESP32-S3: cuáles usar, cuáles evitar y por qué](pines-esp32-s3-cuales-usar/) | 3 |
-| 2026-10-21 | [Pinout del ESP32 DevKit explicado: qué pin usar para cada cosa](pinout-esp32-devkit-explicado/) | 2 |
+| 2026-10-20 | [Pines del ESP32-S3: cuáles usar y cuáles evitar (2026)](pines-esp32-s3-cuales-usar/) | 3 |
+| 2026-10-21 | [ESP32 pinout: qué pin usar para cada cosa (DevKit 30 y 38 pines)](pinout-esp32-devkit-explicado/) | 2 |
 | 2026-10-26 | [Pantalla e-paper Waveshare con ESP32: conexión SPI, GxEPD2 y ejemplos](pantalla-epaper-waveshare-esp32/) | 4 |
 | 2026-10-28 | [Modbus RTU con ESP32 y RS485: maestro y esclavo paso a paso](modbus-rtu-esp32-rs485/) | 3 |
 

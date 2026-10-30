@@ -1,8 +1,8 @@
-# ESP32-S3 vs ESP32-C3: diferencias y cuál elegir
+# ESP32-S3 vs ESP32-C3: diferencias y cuál elegir (tabla)
 
-Código del artículo **[ESP32-S3 vs ESP32-C3: diferencias y cuál elegir](https://iot.gripe/blog/esp32-s3-vs-esp32-c3)**, publicado en [iot.gripe](https://iot.gripe).
+Código del artículo **[ESP32-S3 vs ESP32-C3: diferencias y cuál elegir (tabla)](https://iot.gripe/blog/esp32-s3-vs-esp32-c3)**, publicado en [iot.gripe](https://iot.gripe).
 
-ESP32-S3 vs ESP32-C3: núcleos, RAM, PSRAM, USB y precio comparados. Cuál elegir como hub o como nodo y las trampas de las placas Super Mini.
+ESP32-S3 vs ESP32-C3 en una tabla: núcleos, RAM, PSRAM, USB y precio. Cuál elegir como hub o como nodo y las trampas de las placas Super Mini.
 
 | Archivo | Sección del artículo |
 | --- | --- |

@@ -1,8 +1,8 @@
-# Pinout del ESP32 DevKit explicado: qué pin usar para cada cosa
+# ESP32 pinout: qué pin usar para cada cosa (DevKit 30 y 38 pines)
 
-Código del artículo **[Pinout del ESP32 DevKit explicado: qué pin usar para cada cosa](https://iot.gripe/blog/pinout-esp32-devkit-explicado)**, publicado en [iot.gripe](https://iot.gripe).
+Código del artículo **[ESP32 pinout: qué pin usar para cada cosa (DevKit 30 y 38 pines)](https://iot.gripe/blog/pinout-esp32-devkit-explicado)**, publicado en [iot.gripe](https://iot.gripe).
 
-Pinout del ESP32 DevKitC de 30 y 38 pines explicado: pines solo de entrada, flash, arranque, ADC1 frente a ADC2, DAC, táctiles, I2C, SPI y UART, con una lista de pines seguros.
+ESP32 pinout del DevKitC de 30 y 38 pines: pines solo de entrada, flash, arranque, ADC1 frente a ADC2, DAC, táctiles, I2C, SPI y UART, con pines seguros.
 
 | Archivo | Sección del artículo |
 | --- | --- |

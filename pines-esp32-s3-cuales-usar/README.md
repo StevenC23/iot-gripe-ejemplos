@@ -1,8 +1,8 @@
-# Pines del ESP32-S3: cuáles usar, cuáles evitar y por qué
+# Pines del ESP32-S3: cuáles usar y cuáles evitar (2026)
 
-Código del artículo **[Pines del ESP32-S3: cuáles usar, cuáles evitar y por qué](https://iot.gripe/blog/pines-esp32-s3-cuales-usar)**, publicado en [iot.gripe](https://iot.gripe).
+Código del artículo **[Pines del ESP32-S3: cuáles usar y cuáles evitar (2026)](https://iot.gripe/blog/pines-esp32-s3-cuales-usar)**, publicado en [iot.gripe](https://iot.gripe).
 
-Guía de los GPIO del ESP32-S3 DevKitC-1: pines de arranque, USB nativo, PSRAM octal, ADC1 frente a ADC2, JTAG y pines por defecto de I2C y SPI. Con una lista de pines seguros.
+Qué GPIO del ESP32-S3 usar y cuáles evitar: pines de arranque, USB nativo, PSRAM octal, ADC1 frente a ADC2, I2C y SPI por defecto, con lista de pines seguros.
 
 | Archivo | Sección del artículo |
 | --- | --- |
