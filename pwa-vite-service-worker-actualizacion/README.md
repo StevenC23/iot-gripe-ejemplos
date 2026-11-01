@@ -1,6 +1,6 @@
-# PWA con Vite y vite-plugin-pwa: instalable y que se actualice
+# Vite PWA con vite-plugin-pwa: instalable y que se actualice
 
-Código del artículo **[PWA con Vite y vite-plugin-pwa: instalable y que se actualice](https://iot.gripe/blog/pwa-vite-service-worker-actualizacion)**, publicado en [iot.gripe](https://iot.gripe).
+Código del artículo **[Vite PWA con vite-plugin-pwa: instalable y que se actualice](https://iot.gripe/blog/pwa-vite-service-worker-actualizacion)**, publicado en [iot.gripe](https://iot.gripe).
 
 Cómo convertir una app React con Vite en una PWA instalable con vite-plugin-pwa: manifiesto, íconos, etiquetas para iPhone, dónde publicarla gratis y por qué una pestaña abierta no se actualiza sola.
 

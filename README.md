@@ -20,7 +20,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-07 | [AWS CDK con TypeScript para un proyecto IoT: infraestructura como código](aws-cdk-typescript-proyecto-iot/) | 4 |
 | 2026-10-08 | [Políticas de AWS IoT: mínimo privilegio para cada dispositivo](politicas-aws-iot-minimo-privilegio/) | 3 |
 | 2026-10-08 | [Reglas de AWS IoT: guardar datos y enviar alertas sin servidores](reglas-aws-iot-alertas/) | 8 |
-| 2026-10-09 | [PWA con Vite y vite-plugin-pwa: instalable y que se actualice](pwa-vite-service-worker-actualizacion/) | 4 |
+| 2026-10-09 | [Vite PWA con vite-plugin-pwa: instalable y que se actualice](pwa-vite-service-worker-actualizacion/) | 4 |
 | 2026-10-09 | [Portal cautivo en ESP32: configurar el Wi-Fi sin reprogramar](portal-cautivo-esp32-wifi/) | 5 |
 | 2026-10-10 | [Aprovisionar dispositivos en AWS IoT con Fleet Provisioning](fleet-provisioning-aws-iot/) | 5 |
 | 2026-10-10 | [Bombillo inteligente DIY con ESP32-C3 e interruptor de pared que funciona sin internet](bombillo-inteligente-esp32-c3-interruptor/) | 3 |
@@ -32,8 +32,8 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-15 | [Error \"was not declared in this scope\" con un struct en Arduino: la causa y 4 soluciones](arduino-was-not-declared-in-this-scope-struct/) | 7 |
 | 2026-10-16 | [Cuánto cuesta desplegar una API Spring Boot en AWS: 4 opciones comparadas](cuanto-cuesta-spring-boot-aws/) | 1 |
 | 2026-10-17 | [Cómo instalar firmware en un ESP32: USB, navegador u OTA, y cuándo usar cada uno](flashear-esp32-usb-navegador-ota/) | 1 |
-| 2026-10-20 | [Pines del ESP32-S3: cuáles usar y cuáles evitar (2026)](pines-esp32-s3-cuales-usar/) | 3 |
-| 2026-10-21 | [ESP32 pinout: qué pin usar para cada cosa (DevKit 30 y 38 pines)](pinout-esp32-devkit-explicado/) | 2 |
+| 2026-10-20 | [ESP32-S3 pinout: pines del DevKitC-1, cuáles usar y evitar (2026)](pines-esp32-s3-cuales-usar/) | 3 |
+| 2026-10-21 | [ESP32 pinout: pines del DevKit y cuál usar (30 y 38 pines)](pinout-esp32-devkit-explicado/) | 2 |
 | 2026-10-26 | [Pantalla e-paper Waveshare con ESP32: conexión SPI, GxEPD2 y ejemplos](pantalla-epaper-waveshare-esp32/) | 4 |
 | 2026-10-28 | [Modbus RTU con ESP32 y RS485: maestro y esclavo paso a paso](modbus-rtu-esp32-rs485/) | 3 |
 
