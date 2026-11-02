@@ -36,6 +36,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-21 | [ESP32 pinout: pines del DevKit y cuál usar (30 y 38 pines)](pinout-esp32-devkit-explicado/) | 2 |
 | 2026-10-26 | [Pantalla e-paper Waveshare con ESP32: conexión SPI, GxEPD2 y ejemplos](pantalla-epaper-waveshare-esp32/) | 4 |
 | 2026-10-28 | [Modbus RTU con ESP32 y RS485: maestro y esclavo paso a paso](modbus-rtu-esp32-rs485/) | 3 |
+| 2026-11-02 | [ESP32-C3 pinout: pines, cuáles usar y evitar (Super Mini)](pines-esp32-c3-cuales-usar/) | 3 |
 
 ## Cómo usarlo
 
