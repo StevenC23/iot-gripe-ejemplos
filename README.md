@@ -37,6 +37,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-10-26 | [Pantalla e-paper Waveshare con ESP32: conexión SPI, GxEPD2 y ejemplos](pantalla-epaper-waveshare-esp32/) | 4 |
 | 2026-10-28 | [Modbus RTU con ESP32 y RS485: maestro y esclavo paso a paso](modbus-rtu-esp32-rs485/) | 3 |
 | 2026-11-02 | [ESP32-C3 pinout: pines, cuáles usar y evitar (Super Mini)](pines-esp32-c3-cuales-usar/) | 3 |
+| 2026-11-08 | [Cómo elegir un módulo de relé para ESP32 (y el problema de los 3,3 V)](modulo-rele-esp32/) | 1 |
 
 ## Cómo usarlo
 
