@@ -40,6 +40,7 @@ Cada carpeta corresponde a un artículo y tiene un README con el enlace a la exp
 | 2026-11-08 | [Cómo elegir un módulo de relé para ESP32 (y el problema de los 3,3 V)](modulo-rele-esp32/) | 1 |
 | 2026-11-09 | [Cómo alimentar un ESP32 de forma segura: USB, pines de 5 V y 3,3 V, baterías y fuentes](alimentar-esp32/) | 1 |
 | 2026-11-13 | [MQTT vs HTTP para IoT: cuál usar en tu ESP32 y por qué](mqtt-vs-http-iot/) | 2 |
+| 2026-11-15 | [Sensor de movimiento PIR con ESP32: encender una luz al detectar presencia](sensor-pir-esp32/) | 1 |
 
 ## Cómo usarlo
 
